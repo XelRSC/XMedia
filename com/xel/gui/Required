@@ -1,0 +1,12 @@
+http://www.multiupload.nl/B35N85B9P3 required files
+
+Required libs:
+https://developers.google.com/youtube/code#client_libraries
+gdata-client-1.0.jar
+gdata-core-1.0.jar
+gdata-media-1.0.jar
+gdata-youtube-2.0.jar
+guava-11.0.2.jar
+jsr305.jar
+http://www.oracle.com/technetwork/java/javamail/index.html
+mail.jar
